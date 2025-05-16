@@ -1,0 +1,47 @@
+# Common System Generated Files (OS or shell-related)
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+.cache
+.DS_Store
+.tmp
+error_log
+Thumbs.db
+
+# Tools (IDEs, editors, and project metadata)
+*.sublime-*
+*.iml
+*.ipr
+*.iws
+*.swo
+*.swp
+*.vi
+/.idea/
+/.fleet/
+/.vscode/
+
+# CI/CD and Test Reports
+*.coverage
+*.lcov
+*.report
+coverage.out
+coverage.txt
+
+# Project Artifacts / Build outputs
+*.exe
+*.test
+*.out
+/bin/
+/vendor/
+
+# Environment files
+*.env*
+!*.env.example
+
+# Local Development Files
+/tls/
+
+# Gitkeep Convention (allow intentional empty folders)
+!.gitkeep
