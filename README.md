@@ -108,6 +108,7 @@ func main() {
 ```
 
 ## To Do
+- [ ] Add topological sorting for O(n) variable expansion with complex dependency chains
 - [ ] Port existing tests and benchmarks from the parent project
 - [ ] Add more comprehensive documentation and examples
 
